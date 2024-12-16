@@ -1,0 +1,25 @@
+Initial commit with Cypress test files and configuration.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+#On branch main
+#
+#Initial commit
+#
+# Changes to be committed:
+#	new file:   cypress.config.js
+#	new file:   cypress/e2e/Assertions.cy.js
+#	new file:   cypress/e2e/CSSLOcators.cy.js
+#	new file:   cypress/e2e/Cypress Automation Test.code-workspace
+#	new file:   cypress/e2e/MyFirstTest.cy.js
+#	new file:   cypress/e2e/Ncc.cy.js
+# new file:   cypress/e2e/Timbaapp.cy.js
+#	new file:   cypress/e2e/cypress.config.js
+#	new file:   cypress/e2e/dropdowns.cy.js
+#	new file:   cypress/e2e/spec.cy.js
+#	new file:   cypress/fixtures/example.json
+#	new file:   cypress/support/commands.js
+#	new file:   cypress/support/e2e.js
+#
