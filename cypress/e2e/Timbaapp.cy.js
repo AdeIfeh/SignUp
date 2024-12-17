@@ -20,8 +20,8 @@ describe('timba sign up page', () => {
     .type('Elizabeth') //clickable
 
     //verify Last Name field
-    //cy.get('[id="field-:r1:"]', { timeout: 10000 }) // waits up to 10 seconds
-    //.click()
+    cy.get('[id="field-:r1:"]', { timeout: 10000 }) // waits up to 10 seconds
+    .click()
     //.type('Adesanya')
 
     //Company Name input field
