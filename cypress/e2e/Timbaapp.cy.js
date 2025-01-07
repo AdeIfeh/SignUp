@@ -13,7 +13,7 @@ describe('timba sign up page', () => {
     cy.get(':nth-child(3) > .chakra-button') //button is visible
     .click() //clickable
 
-    //verify all input fields are visible and clickable
+    //verify all input fields
 
     //Verify First Name field
     cy.get('[id="field-:r0:"]').click() 
