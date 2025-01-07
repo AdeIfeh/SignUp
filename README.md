@@ -1,4 +1,5 @@
 **Timba Sign-Up Testing**
+
 This repository contains automated Cypress tests for the Timba Sign-Up page, focusing on form validation, subscription selection, and payment flow.
 
 **Features Tested**
@@ -22,6 +23,7 @@ Buttons: Proceed to Checkout, Make Payment.
 **Prerequisites**
 Node.js (v14 or later)
 Cypress (installed locally)
+
 **Installation**
 bash
 git clone https://github.com/AdeIfeh/SignUp.git
