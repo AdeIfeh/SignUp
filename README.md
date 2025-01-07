@@ -25,9 +25,12 @@ Node.js (v14 or later)
 Cypress (installed locally)
 
 **Installation**
-bash
+bash/powershell
+
 git clone https://github.com/AdeIfeh/SignUp.git
+
 cd SignUp
+
 npm install
 
 **Running Tests**
